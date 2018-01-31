@@ -1,0 +1,1 @@
+ajax、jQuery、fetch三种超时的方法
